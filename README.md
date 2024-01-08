@@ -1,5 +1,5 @@
 # Website-Portfolio
-list of vWebsite Portfolio below
+list of Website below
 
-[Daez global website](https://daezglobal.com/)
+[Daez global website](https://daezglobal.com/)/</br>
 [North Walker Consulting](https://www.nwccompliance.ca/registration)
