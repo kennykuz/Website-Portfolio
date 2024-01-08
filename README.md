@@ -1,2 +1,4 @@
 # Website-Portfolio
-these are Website Portfolio
+view Website Portfolio
+
+[Daez global website](https://daezglobal.com/)
