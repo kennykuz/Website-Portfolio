@@ -1,8 +1,10 @@
 # Website-Portfolio
 list of Website below</br>
-[myfairyskin.com](https://www.myfairyskin.com/)</br>
+
 [ftglobaltravels](https://ftglobaltravels.com/)</br>
+(https://praisedave.ca/)
 [Daez global website](https://daezglobal.com/)</br>
+[myfairyskin.com](https://www.myfairyskin.com/)</br>
 [impactgadget](https://impactgadget.com/)</br>
 [Happyfreshen cleaning](https://www.happyfreshen.com)</br>
 [teamting media](https://teamting.com)
@@ -10,8 +12,7 @@ list of Website below</br>
 ](https://speedloadtransportation.com/)
 [themofashion ]([
 ](https://www.themofashion.com/)
-[praisedave realtor]([
-](https://praisedave.ca/)
+
 
 app
 [Designernote][
