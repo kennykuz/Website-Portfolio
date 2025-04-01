@@ -13,9 +13,7 @@ list of Website below</br>
 
 
 app
-[Designernote][
-](https://apps.apple.com/ph/app/insidernote/id6451081107)
-[noomi fitness app] ([
-](https://apps.apple.com/de/app/noomi-feel-great/id6502523054?l=en-GB)
+[Designernote](https://apps.apple.com/ph/app/insidernote/id6451081107)
+[noomi fitness app](https://apps.apple.com/de/app/noomi-feel-great/id6502523054?l=en-GB)
 
 Facebook ads Result
